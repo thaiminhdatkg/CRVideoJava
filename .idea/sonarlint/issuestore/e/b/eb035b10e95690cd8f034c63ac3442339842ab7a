@@ -1,0 +1,12 @@
+
+=squid:S2178æ"Correct this "&" to "&&".(ã÷§İşÿÿÿÿ8¤­¤İ¦/
+osquid:S1192]"LDefine a constant instead of duplicating this literal "Description" 3 times.(£Ğåéûÿÿÿÿ8¢¼öç¦/
+isquid:S1192ç"JDefine a constant instead of duplicating this literal "FrameSize" 3 times.(æñÿ·8¤­¤İ¦/
+Psquid:S1602",Remove useless curly braces around statement(±åÚæÿÿÿÿÿ8äıŠß¦/
+]"squid:SwitchLastCaseIsDefaultCheck‘""Add a default case to this switch.(öø©ìüÿÿÿÿ8¤­¤İ¦/
+=squid:S2178í"Correct this "&" to "&&".(ã÷§İşÿÿÿÿ8¤­¤İ¦/
+¥squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8ÄÙŞ¦/
+rsquid:UselessImportCheck"BRemove this unused import 'vn.crln.video.crvideo.model.CRProject'.(¡ù¢İøÿÿÿÿ8”¨œİ¦/
+¤squid:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8ÄÙŞ¦/
+ squid:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8ÄÙŞ¦/
+¥squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8ÄÙŞ¦/

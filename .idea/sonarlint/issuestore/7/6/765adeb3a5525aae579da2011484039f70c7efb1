@@ -1,0 +1,8 @@
+
+Ÿsquid:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìÔ»Â8ê×¹è¦/
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í™ÿ¶8ê×¹è¦/
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸Û®µ8ê×¹è¦/
+Msquid:S1948"/Make "drawImageSize" transient or serializable.(à¡­8ü·¾è¦/
+Xsquid:S1068"5Remove this unused "currentScaleRatio" private field.(¯¹úşÿÿÿÿ8ü·¾è¦/
+ƒsquid:S1450"`Remove the "currentScaleRatio" field and declare it as a local variable in the relevant methods.(¯¹úşÿÿÿÿ8ü·¾è¦/
+Esquid:S1948"'Make "image" transient or serializable.(ğã’8˜¦·è¦/

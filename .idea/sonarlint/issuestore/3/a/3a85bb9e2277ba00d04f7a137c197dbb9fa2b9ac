@@ -1,0 +1,17 @@
+
+esquid:UselessImportCheck":Remove this unused import 'javax.swing.table.TableColumn'.(ŞÂ®§8”‰Û¿¦/
+Ÿsquid:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8ÇºÇÕ¦/
+¤squid:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô—»ûÿÿÿÿ8–Ê’¿¦/
+squid:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ†êC8–Ê’¿¦/
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ï¹ÌĞùÿÿÿÿ8¿Ø½¾¦/
+¤squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8ÇºÇÕ¦/
+Ksquid:S1948r"-Make "curProjects" transient or serializable.(ÿ¾°½8¾†İÕ¦/
+Usquid:S1948Œ"6Make "openProjectListeners" transient or serializable.(ƒ†êÌ8»¢òÕ¦/
+Osquid:S1948~"1Make "selectedProject" transient or serializable.(°Ä¹Ş8¤–äÕ¦/
+¤squid:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†§şıÿÿÿÿ8–Ê’¿¦/
+¤squid:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ĞêÕûÿÿÿÿ8–Ê’¿¦/
+Ÿsquid:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£íÂ´8–Ê’¿¦/
+¤squid:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šá® şÿÿÿÿ8–Ê’¿¦/
+¤squid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8ÇºÇÕ¦/
+Lsquid:S1948".Make "appDBService" transient or serializable.(µ¢ôÌ8×ì˜¿¦/
+¤squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8ÇºÇÕ¦/

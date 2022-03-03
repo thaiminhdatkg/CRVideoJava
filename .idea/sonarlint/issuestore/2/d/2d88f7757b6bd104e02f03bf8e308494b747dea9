@@ -1,0 +1,22 @@
+
+Gsquid:S1148â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¿‹é¦/
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ï¿é¦/
+Ysquid:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8½ëåè¦/
+Isquid:S1948º"+Make "curThread" transient or serializable.(œ‚×g8õ¢Ùè¦/
+Osquid:S1602S",Remove useless curly braces around statement(ëîæÏıÿÿÿÿ8ŸÏ—é¦/
+¥squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8õ¢Ùè¦/
+Gsquid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ¢Ùè¦/
+Isquid:S1948 "+Make "curImages" transient or serializable.(ö‘Ü·8õ¢Ùè¦/
+esquid:S2142Å"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½ëåè¦/
+esquid:S2142á"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8»¿‹é¦/
+¤squid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8õ¢Ùè¦/
+Gsquid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½ëåè¦/
+Ÿsquid:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ8õ¢Ùè¦/
+Rsquid:S1611S"/Remove the parentheses around the "e" parameter(ëîæÏıÿÿÿÿ8Òá•é¦/
+¤squid:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8õ¢Ùè¦/
+Jsquid:S1602Ü",Remove useless curly braces around statement(°›ìU8»¿‹é¦/
+Ysquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8»¿‹é¦/
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¿‹é¦/
+Rsquid:S1948¸".Make "frameGrabber" transient or serializable.(•‚ğÂşÿÿÿÿ8õ¢Ùè¦/
+vsquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Èßş¼ÿÿÿÿÿ8»¿‹é¦/
+Gsquid:S1604Ÿ"(Make this anonymous inner class a lambda(´´©Ó8õ¢Ùè¦/

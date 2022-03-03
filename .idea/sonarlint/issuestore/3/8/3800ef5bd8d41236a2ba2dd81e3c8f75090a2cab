@@ -1,0 +1,8 @@
+
+]squid:S11189":Add a private constructor to hide the implicit public one.(å¡£¿øÿÿÿÿ8ªÌžß¦/
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(¤ýä¡
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò¸ƒ¿ýÿÿÿÿ8˜…®¿¦/
+Xsquid:S1118:":Add a private constructor to hide the implicit public one.(ÎÉó8ƒÝ¦ß¦/
+Ksquid:S24474"-Null is returned but a "Boolean" is expected.(–ãÿ°8Å©÷ß¦/
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

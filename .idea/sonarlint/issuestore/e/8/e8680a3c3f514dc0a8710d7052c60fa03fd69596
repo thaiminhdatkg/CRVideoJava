@@ -1,0 +1,11 @@
+
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬ü†§¦/
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬ü†§¦/
+gsquid:S00119@"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÇˆõC8¡Ÿà¦/
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨Ğ§¦/
+Fsquid:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆşÉ§¦/
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰Ü§¦/
+rsquid:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(à™Ù™øÿÿÿÿ8¬ü†§¦/
+Isquid:S1172@",Remove this unused method parameter "clazz".(ÇˆõC8†ëšà¦/
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŸÕà¦/
+Gsquid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ©ò§¦/

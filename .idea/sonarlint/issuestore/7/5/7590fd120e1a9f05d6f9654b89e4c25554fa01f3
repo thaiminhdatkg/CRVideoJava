@@ -1,0 +1,15 @@
+
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ŸË¤Ú¦/
+Gsquid:S1948")Make "project" transient or serializable.(’¸˜ÿ8ã¼¦Ú¦/
+Jsquid:S1602X",Remove useless curly braces around statement(µÿ¶Õ8ˆ‰è¾¦/
+Msquid:S1611X"/Remove the parentheses around the "e" parameter(µÿ¶Õ8ˆ‰è¾¦/
+Lsquid:S1948".Make "appDBService" transient or serializable.(µ¢ôÌ8§„¼Ü¦/
+žsquid:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æ†êC8¡ÍâÚ¦/
+¤squid:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šá® þÿÿÿÿ8¡ÍâÚ¦/
+Ÿsquid:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£íÂ´8¡ÍâÚ¦/
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(áõÔ·þÿÿÿÿ8ƒœ°–¦/
+Jsquid:S1612$",Replace this lambda with a method reference.(÷Ü†¸8Í¶ãÚ¦/
+¤squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô—»ûÿÿÿÿ8¡ÍâÚ¦/
+Osquid:S1602O",Remove useless curly braces around statement(ø£ÁËüÿÿÿÿ8¿§ ¿¦/
+¤squid:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ž†§þýÿÿÿÿ8¡ÍâÚ¦/
+¤squid:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›ÐêÕûÿÿÿÿ8¡ÍâÚ¦/

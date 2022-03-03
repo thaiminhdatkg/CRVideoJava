@@ -1,0 +1,40 @@
+
+squid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¨¡Çùÿÿÿÿ8ÀÇ¿ã¦/
+nsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò’Ú¾8ÊŠä¦/
+¥squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8¶ı©ã¦/
+”"squid:SwitchLastCaseIsDefaultCheck¤"YComplete cases by adding the missing enum constants or add a default case to this switch.(½ˆòóøÿÿÿÿ8€„Ğæ¦/
+bsquid:UselessImportCheck"7Remove this unused import 'javafx.scene.input.KeyCode'.(ûÊ¢¶8–­œç¦/
+¥squid:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8¶ı©ã¦/
+Jsquid:S1948"'Make "image" transient or serializable.(ÂåóÛüÿÿÿÿ8˜ïîá¦/
+squid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¨¡Çùÿÿÿÿ8ÀÇ¿ã¦/
+squid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¨¡Çùÿÿÿÿ8ÀÇ¿ã¦/
+qsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨‰Úİ8Ü±ğã¦/
+qsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã—™ò8ôÀæã¦/
+Msquid:S1948"/Make "boundingBoxes" transient or serializable.(öéô™8íŒÈã¦/
+squid:S00115’"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÏ¯Èÿÿÿÿÿ8ÀÇ¿ã¦/
+Msquid:S1948"/Make "drawImageSize" transient or serializable.(à¡­8œ¿ëá¦/
+squid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Àœøÿÿÿÿ8ßĞ¼ã¦/
+squid:S00115”"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ‡¤üşÿÿÿÿ8ğ›ºã¦/
+Ksquid:S2387"-"font" is the name of a field in "Component".(† ¿š8×¸‚å¦/
+squid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¨¡Çùÿÿÿÿ8ÀÇ¿ã¦/
+Qsquid:S1948".Make "currentLabel" transient or serializable.(ˆ¾­€ıÿÿÿÿ8éâ¤ã¦/
+Ÿsquid:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í™ÿ¶8éâ¤ã¦/
+Fsquid:S1148v"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éâ¤ã¦/
+Msquid:S1948"*Make "curImage" transient or serializable.(®Š“¥ÿÿÿÿÿ8’—Üá¦/
+squid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Àœøÿÿÿÿ8ßĞ¼ã¦/
+Wsquid:S1948"4Make "drawingBoundingBox" transient or serializable.(¢åËéşÿÿÿÿ8²ä»ã¦/
+squid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Àœøÿÿÿÿ8ßĞ¼ã¦/
+]squid:S1948¡"9Make "labelImageDoneListeners" transient or serializable.(î‹Ä‡úÿÿÿÿ8¹©Òã¦/
+vsquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‰ûÿÿÿÿÿ8ôÀæã¦/
+Ÿsquid:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸Û®µ8éâ¤ã¦/
+Ÿsquid:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìÔ»Â8éâ¤ã¦/
+zsquid:S00115“"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸ÏÃÛ8ğ›ºã¦/
+Ssquid:S1066Ÿ"/Merge this if statement with the enclosing one.(†´…øÿÿÿÿ8€„Ğæ¦/
+Tsquid:S1948"6Make "selectingBoundingBox" transient or serializable.(÷—´å8²ä»ã¦/
+zsquid:S00115›"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖŞ8ßĞ¼ã¦/
+squid:S00115•"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë÷ÆÔûÿÿÿÿ8ğ›ºã¦/
+squid:S00115š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Àœøÿÿÿÿ8ßĞ¼ã¦/
+]squid:S1118,":Add a private constructor to hide the implicit public one.(ÈÎ÷±şÿÿÿÿ8€„Ğæ¦/
+ksquid:UnusedPrivateMethodı"9Remove this unused private "scaleBoundToScreenXY" method.(­‰ûÿÿÿÿÿ8ñÌéã¦/
+squid:S00115™"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç¨¡Çùÿÿÿÿ8ÀÇ¿ã¦/
+¥squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8¶ı©ã¦/
